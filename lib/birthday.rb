@@ -11,3 +11,5 @@ end
 end
 
 
+age_appropirate_birthday(birthday_kids)
+  if 
